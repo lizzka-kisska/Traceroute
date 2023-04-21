@@ -8,4 +8,4 @@
 
 >вывод: таблица с данными
 
-![Пример ввода и вывода](https://github.com/lizzka-kisska/traceroute/blob/main/input%2Bouput.png)
+![Пример ввода и вывода](https://github.com/lizzka-kisska/traceroute/blob/main/result.png)
